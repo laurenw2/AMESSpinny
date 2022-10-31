@@ -73,7 +73,9 @@ public class Robot extends TimedRobot {
     speedButtons();
     intakeUpDown();
     intakeRun();
-
+    hoodUpDown();
+    index();
+    shoot();
   }
 
   @Override
